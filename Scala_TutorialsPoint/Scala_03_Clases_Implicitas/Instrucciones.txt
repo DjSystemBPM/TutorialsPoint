@@ -1,0 +1,7 @@
+EJECUTALO DE LA SIGUIENTE MANERA:
+
+$ scalac Run.scala
+
+$ scalac ClaseImplicita.scala
+
+$ scala ClaseImplicita
